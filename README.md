@@ -1,6 +1,6 @@
 
-# Focal Inverse Distance Transform Map
-* An officical implementation of Focal Inverse Distance Transform Map. We propose a novel map named Focal Inverse Distance Transform (FIDT) map,  which can represent each head location information.
+# TransCrowd
+* An officical implementation of TransCrowd: Weakly-Supervised Crowd Counting with Transformer. To the best of our knowledge, this is the ﬁrst work to adopt a pure Transformer for crowd counting research. We observe that the proposed TransCrowd can eﬀectively extract the semantic crowd information by using the self-attention mechanism of Transformer.
 
 * Paper [Link]()
 ## Overview
@@ -17,5 +17,5 @@
 	imageio >=1.18
 
 # Code
-The offical 
+The  code is coming soon.
 
