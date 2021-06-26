@@ -49,7 +49,7 @@ Please utilize a single GPU with 24G memory or multiple GPU for training. On the
 Download the pretrained model from [Baidu-Disk](https://pan.baidu.com/s/1OJZmZfDGOuHCVMtJwrPHUw), passward:8a8n
 
 ```
-python test.py --dataset ShanghaiA  --pre model_best.pth
+python test.py --dataset ShanghaiA  --pre model_best.pth --model_type 'gap'
 ```
 
 # Reference
