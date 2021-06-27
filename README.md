@@ -33,6 +33,11 @@ run  python predataset_xx.py
 ```
 “xx” means the dataset name, including sh, jhu, qnrf, and nwpu. You should change the dataset path.
 
+Generate image file list: 
+```
+run python make_npydata.py
+```
+
 # Training
 
 **Training example:**
