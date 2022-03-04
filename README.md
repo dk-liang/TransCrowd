@@ -63,7 +63,7 @@ If you find this project is useful for your research, please cite:
 @article{liang2021transcrowd,
   title={TransCrowd: Weakly-Supervised Crowd Counting with Transformer},
   author={Liang, Dingkang and Chen, Xiwu and Xu, Wei and Zhou, Yu and Bai, Xiang},
-  journal={arXiv preprint arXiv:2104.09116},
-  year={2021}
+  journal={Science China Information Sciences},
+  year={2022}
 }
 ```
