@@ -60,10 +60,14 @@ python test.py --dataset ShanghaiA  --pre model_best.pth --model_type 'gap'
 # Reference
 If you find this project is useful for your research, please cite:
 ```
-@article{liang2021transcrowd,
-  title={TransCrowd: Weakly-Supervised Crowd Counting with Transformer},
+@article{liang2022transcrowd,
+  title={TransCrowd: weakly-supervised crowd counting with transformers},
   author={Liang, Dingkang and Chen, Xiwu and Xu, Wei and Zhou, Yu and Bai, Xiang},
   journal={Science China Information Sciences},
-  year={2022}
+  volume={65},
+  number={6},
+  pages={1--14},
+  year={2022},
+  publisher={Springer}
 }
 ```
