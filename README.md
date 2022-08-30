@@ -1,6 +1,6 @@
 
 # TransCrowd
-* An officical implementation of TransCrowd: Weakly-Supervised Crowd Counting with Transformer. To the best of our knowledge, this is the ﬁrst work to adopt a pure Transformer for crowd counting research. We observe that the proposed TransCrowd can eﬀectively extract the semantic crowd information by using the self-attention mechanism of Transformer.
+* An officical implementation of TransCrowd: Weakly-Supervised Crowd Counting with Transformers. To the best of our knowledge, this is the ﬁrst work to adopt a pure Transformer for crowd counting research. We observe that the proposed TransCrowd can eﬀectively extract the semantic crowd information by using the self-attention mechanism of Transformer.
 
 * Paper [Link](https://arxiv.org/abs/2104.09116)
 ## Overview
