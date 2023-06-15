@@ -44,7 +44,7 @@ run python make_npydata.py
 
 ```
 python train.py --dataset ShanghaiA  --save_path ./save_file/ShanghaiA --batch_size 24 --model_type 'token' 
-python train.py --dataset ShanghaiA  --save_path ./save_file/ShanghaiA batch_size 24 --model_type 'gap'
+python train.py --dataset ShanghaiA  --save_path ./save_file/ShanghaiA --batch_size 24 --model_type 'gap'
 ```
 Please utilize a single GPU with 24G memory or multiple GPU for training. On the other hand, you also can change the batch size.
 
